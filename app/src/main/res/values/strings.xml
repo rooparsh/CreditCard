@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DarkCard</string>
+    <string name="full_name">Full Name</string>
+    <string name="card_holder_name">Card Holder Name</string>
+    <string name="exp_date">Exp. Date</string>
+    <string name="cvv">CVV/CVC</string>
+    <string name="default_card">Set as Default Card</string>
+    <string name="dummy_card_value">1234-1234-1234-1234-1234</string>
+    <string name="mm_yy">mm/yy</string>
+    <string name="dummy_cvv">****</string>
+    <string name="fill_card_number">Please fill card number</string>
+    <string name="fill_card_expiry">Please fill Expiry Date</string>
+    <string name="fill_card_cvv">Please fill card cvv/cvc number</string>
+    <string name="valid_card_number">Please enter valid card number</string>
+    <string name="valid_card_expiry">Please enter valid expiry date</string>
+    <string name="valid_card_cvv">Please enter valid cvv number</string>
+
+
+    <string name="error_name_field_empty">Please enter name</string>
+    <string name="error_name_two_character_long">Name must contain at least two characters</string>
+    <string name="error_name_special_number_character">Name cannot contain number &amp; special characters</string>
+</resources>

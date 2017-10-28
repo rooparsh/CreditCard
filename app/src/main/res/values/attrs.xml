@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CardForm">
+        <attr name="card_background" format="color" />
+        <attr name="name_hint" format="string" />
+    </declare-styleable>
+
+</resources>

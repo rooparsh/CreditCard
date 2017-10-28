@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="CustomTextAppearance" parent="android:TextAppearance">
+        <!-- Custom Attr-->
+        <item name="fontPath">fonts/Montserrat-Regular.ttf</item>
+    </style>
+    <!--Custom bold text appearance-->
+    <style name="CustomTextAppearance.Bold" parent="CustomTextAppearance">
+        <!-- Custom Attr-->
+        <item name="fontPath">fonts/Montserrat-Bold.ttf</item>
+    </style>
+    <!--Custom light text appearance-->
+    <style name="CustomTextAppearance.Light" parent="CustomTextAppearance">
+        <item name="fontPath">fonts/Montserrat-Light.ttf</item>
+    </style>
+
+
+    <style name="credit_card">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/font_normal</item>
+        <item name="android:textAppearance">@style/CustomTextAppearance.Light</item>
+    </style>
+
+    <style name="credit_card_edit_text">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/spacing_small</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:textSelectHandle">@drawable/zero_drawable</item>
+        <item name="android:textSelectHandleLeft">@drawable/zero_drawable</item>
+        <item name="android:textSelectHandleRight">@drawable/zero_drawable</item>
+        <item name="android:textSize">@dimen/font_normal</item>
+    </style>
+</resources>

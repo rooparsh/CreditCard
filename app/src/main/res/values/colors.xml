@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- grayscale -->
+    <color name="white">#FFFFFF</color>
+    <color name="gray_light">#DBDBDB</color>
+    <color name="gray">#939393</color>
+    <color name="gray_dark">#5F5F5F</color>
+    <color name="black">#000</color>
+    <color name="pure_black">#000</color>
+    <color name="charcoal_grey">#333c40</color>
+    <color name="light_black">#313131</color>
+    <color name="transparent">#0000</color>
+
+</resources>
